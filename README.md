@@ -26,4 +26,4 @@ Application : **[harness-app.cointet.com](http://harness-app.cointet.com)**
 - Harness will detect the new artifact (Docker Container) and start the deployment (**ecointet-deployment**)
 
 **DONE - Your code is already in production! ...
-before the RollBack! Don't play with us**
+before the RollBack! Don't play with us***
